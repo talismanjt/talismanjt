@@ -30,5 +30,5 @@
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="30" alt="Nginx" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="TensorFlow" />
-  <img src="[https://cdn.simpleicons.org/tensorflow/FF6F00](https://github.com/devicons/devicon/blob/v2.17.0/icons/laravel/laravel-original.svg)" height="30" alt="TensorFlow" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/laravel/laravel-original.svg" height="30" alt="TensorFlow" />
 </div>
